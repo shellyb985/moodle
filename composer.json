@@ -10,7 +10,7 @@
             "url": "https://github.com/moodlehq/php-webdriver.git"
         }
     ],
-    "require-dev": {
+    "require": {
         "silex/silex": "~1.1",
         "phpunit/phpunit": "7.5.*",
         "phpunit/dbunit": "4.0.*",
